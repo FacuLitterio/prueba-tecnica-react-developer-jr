@@ -52,8 +52,8 @@ Sigue estos pasos para configurar y ejecutar la aplicación en tu entorno local:
 1. **Clonar el Repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-   cd nombre-del-repositorio
+   git clone https://github.com/FacuLitterio/prueba-tecnica-react-developer-jr
+   cd prueba-tecnica-react-developer-jr
 
 2. **Instalar Dependencias:**
 
